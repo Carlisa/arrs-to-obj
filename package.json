@@ -1,0 +1,29 @@
+{
+  "name": "arrs-to-obj",
+  "description": "Converts to arrays into an object.",
+  "keywords": [
+    "arrs",
+    "to",
+    "obj",
+    "converts",
+    "arrays",
+    "into",
+    "an",
+    "object"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/arrs-to-obj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/arrs-to-obj/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/arrs-to-obj#readme"
+}
