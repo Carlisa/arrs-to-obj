@@ -2,4 +2,21 @@
 
 const arrsToObj = require("../lib");
 
-console.log(arrsToObj());
+let names = [
+      "location"
+    , "age"
+    , "name"
+    ]
+  , values = [
+      "Earth"
+    , 42
+    , "Alice"
+    ]
+  ;
+
+console.log(arrsToObj(names, values));
+// => {
+//    location: 'Earth'
+//  , age: 42
+//  , name: 'Alice'
+// }
