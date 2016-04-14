@@ -1,6 +1,6 @@
 {
   "name": "arrs-to-obj",
-  "description": "Converts to arrays into an object.",
+  "description": "Converts two arrays into an object.",
   "keywords": [
     "arrs",
     "to",

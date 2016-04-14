@@ -1,6 +1,6 @@
 # arrs-to-obj [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/arrs-to-obj.svg)](https://www.npmjs.com/package/arrs-to-obj) [![Downloads](https://img.shields.io/npm/dt/arrs-to-obj.svg)](https://www.npmjs.com/package/arrs-to-obj) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> Converts to arrays into an object.
+> Converts two arrays into an object.
 
 ## :cloud: Installation
     
@@ -39,7 +39,7 @@ console.log(arrsToObj(names, values));
 ## :memo: Documentation
         
 ### `arrsToObj(names, values)`
-Converts to arrays into an object.
+Converts two arrays into an object.
 
 #### Params
 - **Array** `names`: The names array.
