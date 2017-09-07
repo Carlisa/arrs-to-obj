@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Converts two arrays into an object.
 
 #### Params
+
 - **Array** `names`: The names array.
 - **Array** `values`: The values array.
 
